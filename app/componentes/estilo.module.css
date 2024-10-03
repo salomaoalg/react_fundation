@@ -1,0 +1,15 @@
+.margemimagem {
+    margin: 0 20px 20px 0;
+    height: 90px;
+}
+
+.corpo{
+    
+        font-family: sans-serif;
+        display: flex;
+        box-sizing: border-box;
+}
+
+.main{
+    margin: 20px;
+}
